@@ -1,6 +1,3 @@
-Here's a detailed description for your **Student Management System** project that you can use for your GitHub repository:
-
----
 
 # Student Management System
 
@@ -81,6 +78,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize the description, especially the installation instructions and example usage, to fit your actual implementation and preferences!
